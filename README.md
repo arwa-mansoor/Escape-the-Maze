@@ -86,32 +86,32 @@ The current version of the Escape the Maze game includes the core gameplay and v
    
    **Implementation:** Add an option for players to choose maze size and layout before starting the game.
 
-- 2. **Timer for Gameplay** ⏱️
+ 2. **Timer for Gameplay** ⏱️
    - Add a timer to challenge players to complete the maze in the shortest time possible.
 
    **Implementation:** Display a countdown timer during gameplay and track the player's time to finish the maze.
 
-- 3. **Sound Effects** 🎶
+ 3. **Sound Effects** 🎶
    - Add sound effects for movement, hitting obstacles, and winning/losing the game.
 
    **Implementation:**  Integrate audio files and use an appropriate library (e.g., SDL_mixer) to play sounds.
 
-- 4. **Graphical User Interface (GUI)** 💻
+ 4. **Graphical User Interface (GUI)** 💻
    - Transition from a text-based game to a GUI for a more interactive experience.
 
    **Implementation:** Use a graphics library like SFML or SDL to create a visual representation of the maze and player movement.
 
-- 5. **Multiplayer Mode** 👫
+ 5. **Multiplayer Mode** 👫
    - Introduce a two-player mode where two players can race through the maze to reach the exit.
 
    **Implementation:**  Each player controls their own character, and the first to reach the exit wins.
 
-- 6. **Maze Themes** 🌈
+ 6. **Maze Themes** 🌈
    - Add different themes for the maze (e.g., dark mode, festive mode) for variety.
 
    **Implementation:** Allow players to select a theme before starting the game, altering the appearance of the maze and obstacles.
 
-- 7. **High Score Tracking** 🏆
+ 7. **High Score Tracking** 🏆
    - Track the fastest times for each difficulty level and display a leaderboard.
 
    **Implementation:** Store and display the fastest completion times in a file or database.
