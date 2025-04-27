@@ -37,8 +37,8 @@ This project uses several technologies to provide a seamless and engaging user e
   - `A` : Move Left
   - `D` : Move Right
   - `Q` : Quit
-4. **Avoid Obstacles:**: Be careful not to hit obstacles as you move around the maze.
-5. **Reach the End:**: Your goal is to reach the destination (marked with 'H') to win the game.
+3. **Avoid Obstacles**: Be careful not to hit obstacles as you move around the maze.
+4. **Reach the End**: Your goal is to reach the destination (marked with 'H') to win the game.
 
 ---
 
