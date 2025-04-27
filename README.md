@@ -48,11 +48,13 @@ Here are some screenshots showcasing different stages of Escape the Maze game:
 
  - 1. **Category Selection**  
    This screenshot shows the main menu where you can select the difficulty level (Easy, Medium, Hard) to start the game.
-  ![image](https://github.com/user-attachments/assets/65e99faf-a8f6-4c6d-b432-6cbc5485d255) 
+
+    ![image](https://github.com/user-attachments/assets/65e99faf-a8f6-4c6d-b432-6cbc5485d255) 
 
  - 2. **Gameplay**  
    Once you start the game, the maze appears on the screen, and you can move the player `P` to avoid obstacles `X` and reach the exit `H`.
-  ![image](https://github.com/user-attachments/assets/5fb53cd7-044d-4095-83da-9d8013bd6c85)
+
+    ![image](https://github.com/user-attachments/assets/5fb53cd7-044d-4095-83da-9d8013bd6c85)
 
 ---
 
